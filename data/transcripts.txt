@@ -1,0 +1,2 @@
+audio/file1.wav|Hola, este es un ejemplo en mapudungun.
+audio/file2.wav|Otro ejemplo de texto.
